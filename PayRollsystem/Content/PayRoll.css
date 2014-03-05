@@ -1,0 +1,49 @@
+﻿body {
+	font-family: verdana;
+	background-color: #efeeef;
+}
+
+.tabbed_menu {
+	background-color: white;
+	color: red;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+.employee_form {
+	padding-left: 20px; 
+	padding-top: 20px; 
+	padding-bottom: 20px; 
+	padding-right: 20px;
+}
+
+.hideme {
+	display: none;
+}
+
+.employee_form_field_wrapper {
+	padding-left: 10px; 
+	padding-right: 10px; 
+}
+
+.error {
+	color: red; 
+	font-style: italic;
+}
+
+.employee_list_container {
+	 width: 10%;
+	 border:2px solid;
+	 border-radius:10px; 
+	 min-height:306px;
+	 float: left;
+	 margin-right: 20px;
+	 margin-left: 20px;
+}
+
+.employee_form_container {
+	width: 40%; 
+	border: 2px solid; 
+	border-radius: 10px;
+	float:left;
+}
